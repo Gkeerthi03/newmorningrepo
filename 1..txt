@@ -1,0 +1,11 @@
+<class employee:
+def__int__(self,eid,ename,esal);
+self,eid=eid
+self ename=ename
+self.esal=esal
+class Employee{
+int empid;
+string empname;
+int empsal;
+public employee(int empid,string empname,int empsal){
+this.empid
